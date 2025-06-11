@@ -33,3 +33,13 @@ Options:
 
 Missing required arguments: host, user, pass, localDir, remoteDir
 ```
+
+### 4. Using CLI
+```
+xdeploy  \
+  --host ftp_host \
+  --user ftp_user \
+  --pass 'ftp_pass' \
+  --localDir ./local_folder \
+  --remoteDir '/remote_folder'
+```
